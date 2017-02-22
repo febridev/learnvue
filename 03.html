@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>02 Learn VUE</title>
+</head>
+<body>
+	<div id="aplikasi">
+		<p>
+			id <input type="text" id="txtID" v-model="newID"><br>
+			nama <input type="text" id="txtNama" v-model="newNama"><br>
+			<button v-on:click="tambahData">Tambah Data</button>
+		</p>
+		<br>
+		<table style="border:1px solid #000;">
+			<thead>
+				<tr>
+					<td>ID</td>
+					<td>Nama</td>
+					<td>Action</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr v-for="ds in dataSiswa">
+					<td>{{ ds.id }}</td>
+					<td>{{ ds.nama }}</td>
+					<td><button v-on:click="hapusData($index)"> x </button></td>
+				</tr>
+				
+			</tbody>
+		</table>
+	</div>
+
+
+<script type="text/javascript" src="js/vue.js"></script>
+<script type="text/javascript" src="js/03.js"></script>
+</body>
+</html>

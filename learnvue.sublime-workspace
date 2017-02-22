@@ -1,0 +1,1708 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pare",
+				"parseInt〔function〕"
+			],
+			[
+				"par",
+				"parseInt〔function〕"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"new",
+				"newNama"
+			],
+			[
+				"data",
+				"dataSiswa"
+			],
+			[
+				"ne",
+				"newNama"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"posts",
+				"$posts〔variable〕"
+			],
+			[
+				"Tags",
+				"TagsPosts〔namespace〕"
+			],
+			[
+				"publ",
+				"public_path〔function〕"
+			],
+			[
+				"mime",
+				"mimetype"
+			],
+			[
+				"LIBXM",
+				"LIBXML_HTML_NODEFDTD〔constant〕"
+			],
+			[
+				"LIBXML_H",
+				"LIBXML_HTML_NOIMPLIED〔constant〕"
+			],
+			[
+				"LIB",
+				"LIBXML_COMPACT〔constant〕"
+			],
+			[
+				"con",
+				"$contents〔variable〕"
+			],
+			[
+				"tags",
+				"tagspost"
+			],
+			[
+				"dtlpo",
+				"dtlposts"
+			],
+			[
+				"w",
+				"with"
+			],
+			[
+				"Ro",
+				"Route::group\tCreate a Group of Routes"
+			],
+			[
+				"U",
+				"UploadedFile"
+			],
+			[
+				"post_",
+				"post_author"
+			],
+			[
+				"postco",
+				"$postscontent〔variable〕"
+			],
+			[
+				"post",
+				"postimage"
+			],
+			[
+				"pos",
+				"post_image"
+			],
+			[
+				"comp",
+				"Component"
+			],
+			[
+				"de",
+				"defaultCover"
+			],
+			[
+				"bl",
+				"belongsToMany〔function〕"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"requ",
+				"$request〔variable〕"
+			],
+			[
+				"sele",
+				"$selected_id〔variable〕"
+			],
+			[
+				"update",
+				"updated_at"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"re",
+				"$request〔variable〕"
+			],
+			[
+				"Ht",
+				"Http"
+			],
+			[
+				"Po",
+				"Posts"
+			],
+			[
+				"In",
+				"Input"
+			],
+			[
+				"Post",
+				"Posts〔namespace〕"
+			],
+			[
+				"Au",
+				"Auth::user\tGet the currently authenticated user."
+			],
+			[
+				"Input",
+				"Input::get\tRetrieve an Input value"
+			],
+			[
+				"Inp",
+				"Input::get\tRetrieve an Input value"
+			],
+			[
+				"Pos",
+				"Posts〔namespace〕"
+			],
+			[
+				"belo",
+				"belongsToMany〔function〕"
+			],
+			[
+				"Sc",
+				"Schema::drop\tDrop an existing database table"
+			],
+			[
+				"form",
+				"formclose\t{!! Form::close() !!}"
+			],
+			[
+				"creat",
+				"created_at"
+			],
+			[
+				"A",
+				"Auth〔class〕"
+			],
+			[
+				"S",
+				"Session〔class〕"
+			],
+			[
+				"users",
+				"users.name"
+			],
+			[
+				"add",
+				"addColumn〔function〕"
+			],
+			[
+				"html",
+				"$htmlBuilder〔variable〕"
+			],
+			[
+				"H",
+				"Html〔namespace〕"
+			],
+			[
+				"has",
+				"hasMany〔function〕"
+			],
+			[
+				"Rou",
+				"Route::group\tCreate a Group of Routes"
+			],
+			[
+				"id",
+				"$idpertanyaans〔variable〕"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"admin",
+				"adminRole"
+			],
+			[
+				"operat",
+				"operators"
+			],
+			[
+				"di",
+				"die()\tLanguage Construct"
+			],
+			[
+				"stat",
+				"static \tLanguage Construct"
+			],
+			[
+				"var",
+				"var_dump()\tstandard Function"
+			],
+			[
+				"print",
+				"print_r()\tstandard Function"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"spl",
+				"spl_autoload_register()\tSPL Function"
+			],
+			[
+				"requi",
+				"require_once\tLanguage Construct"
+			],
+			[
+				"ses",
+				"session_start()\tsession Function"
+			],
+			[
+				"inc",
+				"include_once\tLanguage Construct"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "05.html",
+			"settings":
+			{
+				"buffer_size": 430,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 52,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/05.js",
+			"settings":
+			{
+				"buffer_size": 172,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 384.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ne",
+				"ANF: New File"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"pascke",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"echo",
+				"Snippet: Blade {{ echo escaped data }}"
+			],
+			[
+				"section",
+				"Snippet: Blade @section"
+			],
+			[
+				"instal",
+				"Snippet: Insert content at the beginning of a file"
+			],
+			[
+				"@if",
+				"Snippet: Blade @ifelse"
+			],
+			[
+				"ech",
+				"Snippet: Blade {!! echo raw data !!}"
+			],
+			[
+				"forea",
+				"Snippet: Blade @foreach"
+			],
+			[
+				"@",
+				"Snippet: Blade @push"
+			],
+			[
+				"yi",
+				"Snippet: Blade @yield"
+			],
+			[
+				"@yi",
+				"Snippet: Blade @yield"
+			],
+			[
+				"yield",
+				"Snippet: Blade @yield"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"@for",
+				"Snippet: Blade @foreach"
+			],
+			[
+				"@fore",
+				"Snippet: Blade @foreach"
+			],
+			[
+				"copy ",
+				"ANF: Copy Current File"
+			],
+			[
+				"form",
+				"Snippet: {!! Form::text() !!}"
+			],
+			[
+				"form op",
+				"Snippet: {!! Form::open() !!}"
+			],
+			[
+				"Blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"include",
+				"Snippet: Blade @include"
+			],
+			[
+				"yie",
+				"Snippet: Blade @yield"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"blade",
+				"Snippet: Blade {!! echo raw data !!}"
+			],
+			[
+				"sect",
+				"Snippet: Blade @section"
+			],
+			[
+				"set",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"@y",
+				"Snippet: Blade @yield"
+			],
+			[
+				"route",
+				"Snippet: Basic Get Route."
+			],
+			[
+				"ins",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"bs3-nav",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"reset",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"auto",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"proj",
+				"Project: Edit Project"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"th",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"exit",
+			"ls",
+			"git",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/learnvue",
+		"/D/xampp/htdocs/learnvue/node_modules",
+		"/D/xampp/htdocs/learnvue/node_modules/vue/types"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/learnvue/css/desain.css",
+		"/D/xampp/htdocs/learnvue/js/04.js",
+		"/D/xampp/htdocs/learnvue/04.html",
+		"/D/xampp/htdocs/learnvue/js/03.js",
+		"/D/xampp/htdocs/learnvue/03.html",
+		"/D/xampp/htdocs/learnvue/js/vue.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/xampp/htdocs/learnvue/js/02.js",
+		"/D/xampp/htdocs/learnvue/02.html",
+		"/D/xampp/htdocs/learnvue/index.html",
+		"/D/xampp/htdocs/learnvue/js/01.js",
+		"/D/xampp/htdocs/personalblog/app/Http/Controllers/BlogsController.php",
+		"/D/xampp/htdocs/personalblog/resources/views/layouts/detilBlog.blade.php",
+		"/D/xampp/htdocs/personalblog/resources/views/blogs/showPost.blade.php",
+		"/D/xampp/htdocs/personalblog/.env",
+		"/D/xampp/htdocs/personalblog/resources/views/layouts/adminblog.blade.php",
+		"/D/xampp/htdocs/personalblog/app/Http/routes.php",
+		"/D/xampp/htdocs/personalblog/app/Http/Controllers/ArticleController.php",
+		"/D/xampp/htdocs/personalblog/database/migrations/2016_09_15_054719_posts_blog.php",
+		"/D/xampp/htdocs/personalblog/resources/views/layouts/appblog.blade.php",
+		"/D/xampp/htdocs/personalblog/public/css/clean-blog.min.css",
+		"/D/xampp/htdocs/personalblog/config/app.php",
+		"/D/xampp/htdocs/personalblog/resources/views/blogs/home.blade.php",
+		"/D/xampp/htdocs/personalblog/app/User.php",
+		"/D/xampp/htdocs/personalblog/app/Posts.php",
+		"/D/xampp/htdocs/personalblog/app/Exceptions/Handler.php",
+		"/D/xampp/htdocs/personalblog/database/seeds/PostsSeeder.php",
+		"/D/xampp/htdocs/personalblog/composer.json",
+		"/D/xampp/htdocs/personalblog/resources/views/blogs/admin/articles.blade.php",
+		"/D/xampp/htdocs/personalblog/resources/views/blogs/admin/_formArticle.blade.php",
+		"/D/xampp/htdocs/personalblog/public/css/default.css",
+		"/D/xampp/htdocs/personalblog/public/js/admin.js",
+		"/D/xampp/htdocs/personalblog/vendor/dompdf/dompdf/lib/fonts/Courier-Oblique.afm",
+		"/D/xampp/htdocs/personalblog/resources/views/blogs/admin/articlesEdit.blade.php",
+		"/D/xampp/htdocs/personalblog/app/Tags.php",
+		"/D/xampp/htdocs/personalblog/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/D/xampp/htdocs/personalblog/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php",
+		"/D/xampp/htdocs/personalblog/database/migrations/2016_09_13_031746_entrust_setup_tables.php",
+		"/D/xampp/htdocs/personalblog/app/TagsPosts.php",
+		"/D/xampp/htdocs/personalblog/public/css/default-admin.css",
+		"/D/xampp/htdocs/personalblog/database/seeds/TagsSeeder.php",
+		"/D/xampp/htdocs/personalblog/database/migrations/2016_10_03_050039_TagsPosts.php",
+		"/D/xampp/htdocs/personalblog/public/js/main.js",
+		"/D/xampp/htdocs/personalblog/resources/views/blogs/admin/_actionArticle.blade.php",
+		"/D/xampp/htdocs/personalblog/app/Http/Requests/Request.php",
+		"/D/xampp/htdocs/personalblog/app/Http/Middleware/Authenticate.php",
+		"/D/xampp/htdocs/personalblog/database/migrations/2016_09_28_122313_tags_detail.php",
+		"/D/xampp/htdocs/personalblog/app/Http/Controllers/AdminController.php",
+		"/D/xampp/htdocs/personalblog/config/auth.php",
+		"/D/xampp/htdocs/personalblog/resources/views/admin/articlesEdit.blade.php",
+		"/D/xampp/htdocs/personalblog/app/Http/Requests/ArticleRequest.php",
+		"/D/xampp/htdocs/personalblog/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/D/xampp/htdocs/personalblog/vendor/symfony/routing/Route.php",
+		"/D/xampp/htdocs/personalblog/resources/views/blogs/admin/viewarticles.blade.php",
+		"/D/xampp/htdocs/personalblog/database/migrations/2016_09_28_114315_create_tags.php",
+		"/D/xampp/htdocs/personalblog/database/seeds/DatabaseSeeder.php",
+		"/D/xampp/htdocs/personalblog/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/xampp/htdocs/personalblog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/D/xampp/htdocs/personalblog/resources/views/auth/login.blade.php",
+		"/D/xampp/htdocs/personalblog/_formArticle.blade.php",
+		"/D/DevSuiteHome_1/NETWORK/ADMIN/sqlnet.ora",
+		"/D/DevSuiteHome_1/NETWORK/ADMIN/tnsnames.ora",
+		"/D/xampp/htdocs/personalblog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/xampp/htdocs/personalblog/database/seeds/UsersSeeder.php",
+		"/D/xampp/htdocs/personalblog/resources/views/blogs/admin/homeadmin.blade.php",
+		"/D/xampp/htdocs/wordpress/wp-admin/setup-config.php",
+		"/D/xampp/htdocs/personalblog/app/Http/Kernel.php",
+		"/D/xampp/htdocs/personalblog/app/Http/Controllers/Auth/AuthController.php",
+		"/D/xampp/htdocs/adminboot/assets/css/bundle.css",
+		"/D/xampp/htdocs/personalblog/resources/layouts/adminblog.blade.php",
+		"/D/xampp/htdocs/personalblog/resources/views/auth/login.blade.php.copy",
+		"/D/xampp/htdocs/personalblog/resources/views/admin/login.blade.php",
+		"/D/xampp53/xampp/htdocs/sistempakartebu/user/konsultasi.php",
+		"/D/xampp53/xampp/htdocs/sistempakartebu/config/koneksi.php",
+		"/D/xampp53/xampp/htdocs/sistempakartebu/admin/table_akun.php",
+		"/D/xampp53/xampp/htdocs/sistempakartebu/form_daftar.php",
+		"/D/xampp/htdocs/personalblog/public/css/loginadmin.css",
+		"/D/xampp/htdocs/personalblog/public/js/mainlogin.js",
+		"/D/xampp/htdocs/personalblog/resources/views/layouts/app.blade.php",
+		"/D/xampp/htdocs/personalblog/app/Permission.php",
+		"/D/xampp/htdocs/personalblog/app/Role.php",
+		"/D/xampp/htdocs/personalblog/resources/views/personal.blade.php",
+		"/D/xampp/htdocs/personalblog/resources/views/blogs/_sidebar.blade.php",
+		"/D/xampp/htdocs/personalblog/resources/views/welcome.blade.php",
+		"/D/xampp/htdocs/personalblog/.gitignore",
+		"/D/xampp/htdocs/personalblog/resources/personal.blade.php",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/EBS_ORACLE_NSP/query/cek_session_wf_notification.sql",
+		"/C/Users/febriyant.abidin/Desktop/SR-3-13083814251/retrieve_validation_data.sql",
+		"/C/Users/febriyant.abidin/Desktop/SR-3-13083814251/18839067/inv/patch/115/sql/invmtmqt.sql",
+		"/D/EBS_ORACLE_NSP/query/report/GET_ACTUAL_QTY_BATCH_PEX.sql",
+		"/C/Users/febriyant.abidin/Desktop/SR-3-13083814251/18839067/inv/patch/115/sql/invmtmqd.sql",
+		"/C/Users/febriyant.abidin/Desktop/mmt_moqd_mismatch_at_sublevel.sql",
+		"/D/xampp53/xampp/htdocs/SMKT3/admin/home.php",
+		"/D/EBS_ORACLE_NSP/query/cek/cek_receiving.sql",
+		"/D/EBS_ORACLE_NSP/query/report/all_recipe.sql",
+		"/D/EBS_ORACLE_NSP/query/cek/get_user_n_password.sql",
+		"/D/EBS_ORACLE_NSP/query/cek/cek_receive_and_po.sql",
+		"/D/EBS_ORACLE_NSP/query/report/position_hirarchy_name.sql",
+		"/D/EBS_ORACLE_NSP/query/report/user_and_plant_responsibility.sql",
+		"/D/EBS_ORACLE_NSP/query/report/get_hirarchy_po.sql",
+		"/D/xampp53/xampp/htdocs/SMKT3/admin/edit_nilai.php",
+		"/D/xampp53/xampp/htdocs/SMKT3/admin/admin.php",
+		"/D/xampp53/xampp/htdocs/SMKT3/admin/mn_adm.php",
+		"/D/xampp53/xampp/htdocs/SMKT3/admin/edit_profil_user.php",
+		"/C/Users/febriyant.abidin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/EBS_ORACLE_NSP/query/report/all_resources.txt",
+		"/D/EBS_ORACLE_NSP/query/.git/config",
+		"/D/EBS_ORACLE_NSP/query/report/get_total_qty_bulanan_produksi.sql",
+		"/D/EBS_ORACLE_NSP/query/inventory_item_id.sql",
+		"/D/EBS_ORACLE_NSP/query/cek/update_mail_status_user.sql",
+		"/C/Users/febriyant.abidin/Desktop/qty_reservable/p16729011_R12.INV.B_R12_GENERIC/16729011/README.txt",
+		"/C/Users/febriyant.abidin/Desktop/qty_reservable/p16729011_R12.INV.B_R12_GENERIC/16729011/u16729011.drv",
+		"/C/Users/febriyant.abidin/Desktop/qty_reservable/invdbg.log",
+		"/C/Users/febriyant.abidin/Desktop/qty_reservable/invdbg.db",
+		"/D/EBS_ORACLE_NSP/query/concurrent_NP.sql",
+		"/C/Users/febriyant.abidin/AppData/Roaming/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/D/EBS_ORACLE_NSP/query/RPO001-BAPB.sql",
+		"/C/Users/febriyant.abidin/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/C/Users/febriyant.abidin/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/EBS_ORACLE_NSP/query/report/YNP_GET_KAPASITAS.sql",
+		"/D/EBS_ORACLE_NSP/query/cli/date_linux.sh",
+		"/D/EBS_ORACLE_NSP/query/get_data_detail_batch.sql",
+		"/D/EBS_ORACLE_NSP/query/cek/cek_supply_item",
+		"//workfolders.grahaplas.com/Users Data$/febriyant.abidin/My Documents/2015/query/mtl_transaction_error.sql",
+		"/C/Users/febriyant.abidin/Desktop/CstCheck_R12.sql",
+		"/C/Users/febriyant.abidin/AppData/Local/Temp/theme.css.txt"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"resolve",
+			"post-title",
+			"token",
+			"datatables",
+			"active",
+			"logout",
+			"ss_domain",
+			"test1",
+			"editprofil",
+			"edit_profil",
+			"edit",
+			"description",
+			"segment5",
+			"'-'\n",
+			"number ",
+			"lot",
+			"lo",
+			"lot",
+			"lot_number",
+			"navbar-default-color",
+			"navbar-default",
+			"@",
+			"@navbar-",
+			"@navbar",
+			"oacore_server",
+			"server",
+			"qty_misc",
+			"quantity",
+			"project",
+			"switch",
+			"quick",
+			"EXTENDED_PRICE_MIR",
+			"extended",
+			"nvl",
+			"item",
+			"placeholder",
+			"signin",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "05.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										266,
+										267
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										256,
+										257
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"auto_complete": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "js/05.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										140,
+										141
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										115,
+										116
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learnvue.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"config/",
+				"config\\app.php"
+			],
+			[
+				"views/blogs/",
+				"resources\\views\\blogs\\showPost.blade.php"
+			],
+			[
+				"views/layouts/",
+				"resources\\views\\layouts\\detilBlog.blade.php"
+			],
+			[
+				"views/layouts",
+				"resources\\views\\layouts\\adminblog.blade.php"
+			],
+			[
+				"migrations/",
+				"database\\migrations\\2016_09_15_054719_posts_blog.php"
+			],
+			[
+				"/controllers/",
+				"app\\Http\\Controllers\\ArticleController.php"
+			],
+			[
+				"blogs/home",
+				"resources\\views\\blogs\\home.blade.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"app/",
+				"app\\Posts.php"
+			],
+			[
+				"controllers/",
+				"app\\Http\\Controllers\\BlogsController.php"
+			],
+			[
+				"resources/views/blogs/",
+				"resources\\views\\blogs\\home.blade.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"database/seeder",
+				"database\\seeds\\PostsSeeder.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"app/exc",
+				"app\\Exceptions\\Handler.php"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				"config/app",
+				"config\\app.php"
+			],
+			[
+				"views/layouts/app",
+				"resources\\views\\layouts\\appblog.blade.php"
+			],
+			[
+				"resources/views/lay",
+				"resources\\views\\layouts\\detilBlog.blade.php"
+			],
+			[
+				"public/js",
+				"public\\js\\admin.js"
+			],
+			[
+				"resources/views/admin/",
+				"resources\\views\\blogs\\admin\\articles.blade.php"
+			],
+			[
+				"resources/view/blogs/admin",
+				"resources\\views\\blogs\\admin\\_formArticle.blade.php"
+			],
+			[
+				"http/controllers/",
+				"app\\Http\\Controllers\\ArticleController.php"
+			],
+			[
+				"config/app.",
+				"config\\app.php"
+			],
+			[
+				"co",
+				"vendor\\dompdf\\dompdf\\lib\\fonts\\Courier-Oblique.afm"
+			],
+			[
+				"app/route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"database/migrations/",
+				"database\\migrations\\2016_09_15_054719_posts_blog.php"
+			],
+			[
+				"resources/views/blogs/admin/",
+				"resources\\views\\blogs\\admin\\_formArticle.blade.php"
+			],
+			[
+				"resources/views/blog",
+				"resources\\views\\blogs\\home.blade.php"
+			],
+			[
+				"resources/views/blogs/admin",
+				"resources\\views\\blogs\\admin\\_formArticle.blade.php"
+			],
+			[
+				"public/css/",
+				"public\\css\\default-admin.css"
+			],
+			[
+				"resources/views/layouts",
+				"resources\\views\\layouts\\adminblog.blade.php"
+			],
+			[
+				"app/pos",
+				"app\\Posts.php"
+			],
+			[
+				"resources/views/layou",
+				"resources\\views\\layouts\\adminblog.blade.php"
+			],
+			[
+				"default-",
+				"public\\css\\default-admin.css"
+			],
+			[
+				"resources/views/admin",
+				"resources\\views\\layouts\\adminblog.blade.php"
+			],
+			[
+				"_article",
+				"resources\\views\\blogs\\admin\\_actionArticle.blade.php"
+			],
+			[
+				"aritcle",
+				"app\\Http\\Controllers\\ArticleController.php"
+			],
+			[
+				"a",
+				"config\\auth.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"articles",
+				"resources\\views\\admin\\articlesEdit.blade.php"
+			],
+			[
+				"route.php",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php"
+			],
+			[
+				"tags.php",
+				"app\\Tags.php"
+			],
+			[
+				"articel",
+				"app\\Http\\Controllers\\ArticleController.php"
+			],
+			[
+				"app/po",
+				"app\\Posts.php"
+			],
+			[
+				"database/migr",
+				"database\\migrations\\2016_09_15_054719_posts_blog.php"
+			],
+			[
+				"database/seeds/data",
+				"database\\seeds\\DatabaseSeeder.php"
+			],
+			[
+				"app/tags",
+				"app\\Tags.php"
+			],
+			[
+				"database/seeds/",
+				"database\\seeds\\PostsSeeder.php"
+			],
+			[
+				"app/user",
+				"app\\User.php"
+			],
+			[
+				"app/http/controllers/",
+				"app\\Http\\Controllers\\ArticleController.php"
+			],
+			[
+				"default-admin",
+				"public\\css\\default-admin.css"
+			],
+			[
+				"article",
+				"app\\Http\\Controllers\\ArticleController.php"
+			],
+			[
+				"post",
+				"app\\Posts.php"
+			],
+			[
+				"default",
+				"public\\css\\default-admin.css"
+			],
+			[
+				"kerne",
+				"app\\Http\\Kernel.php"
+			],
+			[
+				"kernel",
+				"app\\Http\\Kernel.php"
+			],
+			[
+				"middleware/a",
+				"app\\Http\\Middleware\\Authenticate.php"
+			],
+			[
+				"databases",
+				"database\\seeds\\DatabaseSeeder.php"
+			],
+			[
+				"users",
+				"database\\seeds\\UserSeeder.php"
+			],
+			[
+				"permiss",
+				"app\\Permission.php"
+			],
+			[
+				"entrust_set",
+				"database\\migrations\\2016_09_13_031746_entrust_setup_tables.php"
+			],
+			[
+				"config/ap",
+				"config\\app.php"
+			],
+			[
+				"personal",
+				"resources\\views\\personal.blade.php"
+			],
+			[
+				"recip",
+				"report\\all_recipe.sql"
+			],
+			[
+				"reso",
+				"report\\all_resources.txt"
+			],
+			[
+				"recipe",
+				"report\\all_recipe.sql"
+			],
+			[
+				"conc",
+				"cek_session_wf_notification.sql"
+			],
+			[
+				"con",
+				"concurrent_NP.sql"
+			],
+			[
+				"res",
+				"report\\all_resources.txt"
+			],
+			[
+				"actual",
+				"report\\GET_ACTUAL_QTY_BATCH_PEX.sql"
+			],
+			[
+				"rec",
+				"report\\all_recipe.sql"
+			],
+			[
+				"form",
+				"report\\all_formula.sql"
+			],
+			[
+				"upda",
+				"cek\\update_mail_status_user.sql"
+			],
+			[
+				"gethi",
+				"report\\get_hirarchy_po.sql"
+			],
+			[
+				"get",
+				"report\\GET_ACTUAL_QTY_BATCH_PEX.sql"
+			],
+			[
+				"item",
+				"inventory_item_id.sql"
+			],
+			[
+				"po",
+				"report\\position_hirarchy_name.sql"
+			],
+			[
+				"ac",
+				"report\\GET_ACTUAL_QTY_BATCH_PEX.sql"
+			],
+			[
+				"rou",
+				"report\\all_resources.txt"
+			],
+			[
+				"reci",
+				"report\\all_recipe.sql"
+			],
+			[
+				"hir",
+				"report\\get_hirarchy_po.sql"
+			],
+			[
+				"ite",
+				"inventory_item_id.sql"
+			],
+			[
+				"rece",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"hira",
+				"report\\get_hirarchy_po.sql"
+			],
+			[
+				"bulanan",
+				"report\\get_total_qty_bulanan_produksi.sql"
+			],
+			[
+				"in",
+				"inventory_item_id.sql"
+			],
+			[
+				"re",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"date",
+				"cli\\date_linux.sh"
+			],
+			[
+				"update",
+				"cek\\update_request.sql"
+			],
+			[
+				"batch",
+				"report\\GET_ACTUAL_QTY_BATCH_PEX.sql"
+			],
+			[
+				"rin",
+				"report\\RINV004.sql"
+			],
+			[
+				"upd",
+				"cek\\update_request.sql"
+			],
+			[
+				"ou",
+				"report\\order_vs_kapasitas_vs_ttlproduksi.sql"
+			],
+			[
+				"formu",
+				"report\\all_formula.sql"
+			],
+			[
+				"hirar",
+				"report\\get_hirarchy_po.sql"
+			],
+			[
+				"hi",
+				"report\\get_hirarchy_po.sql"
+			],
+			[
+				"appro",
+				"\\\\workfolders.grahaplas.com\\Users Data$\\febriyant.abidin\\My Documents\\2015\\query\\report\\position_hirarchy_name.sql"
+			],
+			[
+				"cash",
+				"report\\cash_flow_2.sql"
+			],
+			[
+				"contoh",
+				"report\\contoh_cashflow.sql"
+			],
+			[
+				"per",
+				"cek\\query_per_po.txt"
+			],
+			[
+				"recei",
+				"\\\\workfolders.grahaplas.com\\Users Data$\\febriyant.abidin\\My Documents\\2015\\query\\cek\\cek_receiving.sql"
+			],
+			[
+				"so",
+				"report\\quantity_so_ver2.sql"
+			],
+			[
+				"tra",
+				"cek\\mtl_transaction.sql"
+			],
+			[
+				"mtl",
+				"cek\\mtl_transaction.sql"
+			],
+			[
+				"ma",
+				"cek\\mtl_transaction.sql"
+			],
+			[
+				"up",
+				"cek\\update_mail_status_user.sql"
+			],
+			[
+				"qty_so",
+				"report\\quantity_so_ver2.sql"
+			],
+			[
+				"pivot",
+				"cek\\cek_period_inventory.txt"
+			],
+			[
+				"np_get",
+				"report\\np_get_actual_qty_variance_by_tgl_by_recipe.sql"
+			],
+			[
+				"all",
+				"report\\all_recipe.sql"
+			],
+			[
+				"cek",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"kapasi",
+				"report\\kapasitas_mesin_sc_2925.sql"
+			],
+			[
+				"for",
+				"report\\all_formula.sql"
+			],
+			[
+				"sa",
+				"report\\query sample all.sql"
+			],
+			[
+				"sam",
+				"report\\query sample all.sql"
+			],
+			[
+				"cekre",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"bre",
+				"report\\qty_order_per_bulan_ver2.sql"
+			],
+			[
+				"vs",
+				"report\\order_vs_kapasitas_vs_ttlproduksi.txt"
+			],
+			[
+				"quer",
+				"report\\query sample all.sql"
+			],
+			[
+				"acc",
+				"report\\get_account.sql"
+			],
+			[
+				"ce",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"ka",
+				"report\\SUMSO_KAPASITAS_HARI_TOTALKAPASITAS.sql"
+			],
+			[
+				"cekrece",
+				"cek\\cek_receiving.sql"
+			],
+			[
+				"index",
+				"D:\\xampp\\htdocs\\helpdesk\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\xampp\\htdocs\\personalblog\\personalblog.sublime-project"
+			],
+			[
+				"admin",
+				"D:\\xampp\\htdocs\\adminboot\\adminboot.sublime-project"
+			],
+			[
+				"larapus",
+				"D:\\xampp\\htdocs\\latihanrk\\larapuslima.sublime-project"
+			],
+			[
+				"ad",
+				"D:\\xampp\\htdocs\\adminboot\\adminboot.sublime-project"
+			],
+			[
+				"app",
+				"D:\\xampp\\htdocs\\larapuslima\\app\\approcket.sublime-project"
+			],
+			[
+				"larap",
+				"D:\\xampp\\htdocs\\latihanrk\\larapuslima.sublime-project"
+			],
+			[
+				"lara",
+				"D:\\xampp\\htdocs\\latihanrk\\larapuslima.sublime-project"
+			],
+			[
+				"larapi",
+				"D:\\xampp\\htdocs\\latihanrk\\larapuslima.sublime-project"
+			],
+			[
+				"ile",
+				"D:\\xampp\\htdocs\\approcket-preproject-master\\ilearn.sublime-project"
+			],
+			[
+				"a",
+				"D:\\xampp\\htdocs\\approcket-preproject-master\\crud_laravel_52.sublime-project"
+			],
+			[
+				"ser",
+				"D:\\xampp\\htdocs\\servicedesk\\servicedesk.sublime-project"
+			],
+			[
+				"proper",
+				"\\\\workfolders.grahaplas.com\\Users Data$\\febriyant.abidin\\My Documents\\2015\\query\\cek\\properti.sublime-project"
+			],
+			[
+				"help",
+				"D:\\xampp\\htdocs\\helpdesk\\helpdesk.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
